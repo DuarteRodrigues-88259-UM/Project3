@@ -2,5 +2,5 @@
 
 int main() 
 {
-	std::cout << "Hello! I'm master" << std::endl;
+	std::cout << "Hello! I'm Branch" << std::endl;
 }
